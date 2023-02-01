@@ -92,6 +92,7 @@ table img{
 /* Partie carrousel des videos  */
 .carroussel{
     width: 80%;
+    margin: auto;
 }
 .diapo{
     position: relative;
